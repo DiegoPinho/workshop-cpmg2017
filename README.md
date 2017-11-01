@@ -1,11 +1,16 @@
-# Passos para criação do Projeto
+# Workshop - CampusParty 2017
+
+![Screenshot da aplicação](screenshot.jpg)
+
+
+## Passos para criação do Projeto
 
 - Instalar o node/npm na máquina
-- Instalar o create-react-app globalmente na máquina > npm install -g create-react-app
-- Criar o projeto inicial > create-react-app clima-tempo
-- Instalar o boostrap > npm install --save boostrap
-- Instalar o react-boostrap > npm install --save react-boostrap
-- Colocar as dependências do bootstrap no index.js
+- Instalar o `create-react-app` globalmente na máquina > `npm install -g create-react-app`
+- Criar o projeto inicial > `create-react-app clima-tempo`
+- Instalar o boostrap > `npm install --save boostrap`
+- Instalar o react-boostrap > `npm install --save react-boostrap`
+- Colocar as dependências do bootstrap no `index.js`
 
 ``` javascript
 import 'bootstrap/dist/css/bootstrap.css';

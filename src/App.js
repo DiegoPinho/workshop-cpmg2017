@@ -4,8 +4,6 @@ import {Grid, Row, Col} from 'react-bootstrap';
 import Navio from './Navio';
 import Controles from './Controles';
 
-import './App.css';
-
 class App extends Component {
   
   constructor(props) {
